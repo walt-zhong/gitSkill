@@ -1,8 +1,4 @@
 creat
 creat a new branch is quickly and simple
 creat at dev branch
-<<<<<<< HEAD
-Creating a new branch is quick and simple.
-=======
-i just want you to know,i always love you
->>>>>>> feature1
+hahahahahahhahahahahahh
